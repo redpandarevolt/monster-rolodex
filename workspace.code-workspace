@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../kid-helper"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"editor.autoClosingBrackets": "always",
+		"editor.autoClosingQuotes": "always"
+	}
+}
