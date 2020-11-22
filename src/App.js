@@ -16,6 +16,8 @@ class App extends Component {
       minions: [],
       searchField: ''
     };
+
+    this.handleChange = this.handleChange.bind(this);
   }
   
   componentDidMount() {
